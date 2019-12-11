@@ -23,3 +23,5 @@ Various paid vendors:
 - Prebaked infra / images
 - Date range on/off
 - Newrelic, etc. integrations
+- High availability (easiest maybe via S3)
+- Caching/Eviction
