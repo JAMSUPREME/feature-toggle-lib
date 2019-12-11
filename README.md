@@ -9,6 +9,11 @@ Various paid vendors:
 - https://launchdarkly.com/
 - https://www.split.io/
 
+# Open source variants
+
+- http://featureflags.io/resources/
+- etc.
+
 # Features
 
 - On/Off
