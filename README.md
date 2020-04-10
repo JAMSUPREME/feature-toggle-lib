@@ -8,6 +8,7 @@ Various paid vendors:
 - https://rollout.io/
 - https://launchdarkly.com/
 - https://www.split.io/
+- https://github.com/Unleash/unleash
 
 # Open source variants
 
